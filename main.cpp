@@ -11,9 +11,10 @@ void imprimirAlice(){
 }
 
 int main(){
-	return 0;
+	imprimirAlice();
 }
 
 void imprimirHelloWorld(){
-	printf("Hello World");
+	printf("Hello");
+	printf("World");
 }
