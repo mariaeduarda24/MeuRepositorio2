@@ -11,7 +11,7 @@ void imprimirAlice(){
 }
 
 int main(){
-	imprimirAlice();
+	imprimirBob();
 }
 
 void imprimirHelloWorld(){
