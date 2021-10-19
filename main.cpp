@@ -15,6 +15,5 @@ int main(){
 }
 
 void imprimirHelloWorld(){
-	printf("Hello");
-	printf("World");
+	printf("Hello World");
 }
